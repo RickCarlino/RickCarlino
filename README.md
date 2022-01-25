@@ -5,8 +5,8 @@
 ## About Me
 
  * Co-founder at [FarmBot](https://farm.bot/)
- * Technical editor for the book [ReactJS Foundations](https://www.amazon.com/React-Foundations-Building-Interfaces-ReactJS/dp/1119685540/)
  * Co-founder at [Fox.Build makerspace in the Chicago suburbs](https://fox.build/)
+ * Technical editor for the book [ReactJS Foundations](https://www.amazon.com/React-Foundations-Building-Interfaces-ReactJS/dp/1119685540/)
  * Armchair software historian (time period: 1983-2003)
  * I talk too much about the [Forth programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)).
 
@@ -34,4 +34,4 @@
 
 [Blog](http://rickcarlino.com/), [Reddit](https://www.reddit.com/user/rickcarlino), [StackOverflow](https://stackexchange.com/users/1063897/rick), [LinkedIn](https://www.linkedin.com/in/rickcarlino/), [Twitter](https://twitter.com/RickCarlino/)
 
-I keep a [personal Calendly page](https://calendly.com/rickcarlino/office-hours) for anyone who is interested in discussing professional matter. Please note that this is a _personal_ contact page and should not be used for technical support or sales questions.
+I keep a [personal Calendly page](https://calendly.com/rickcarlino/office-hours) for anyone who is interested in discussing professional matters. Please note that this is a _personal_ contact page and should not be used for technical support or sales questions.
