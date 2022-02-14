@@ -4,8 +4,9 @@
 
 ## About Me
 
- * Co-founder at [FarmBot](https://farm.bot/)
+ * Senior Software Engineer at Qualia Labs
  * Co-founder at [Fox.Build makerspace in the Chicago suburbs](https://fox.build/)
+ * Former co-founder at [FarmBot](https://farm.bot/)
  * Technical editor for the book [ReactJS Foundations](https://www.amazon.com/React-Foundations-Building-Interfaces-ReactJS/dp/1119685540/)
  * Armchair software historian (time period: 1983-2003)
  * I talk too much about the [Forth programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)).
