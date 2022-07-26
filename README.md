@@ -9,7 +9,7 @@
  * Former co-founder at [FarmBot](https://farm.bot/)
  * Technical editor for the book [ReactJS Foundations](https://www.amazon.com/React-Foundations-Building-Interfaces-ReactJS/dp/1119685540/), COMING SOON: JavaScript All-in-One For Dummies (ISBN: 9781119906834).
  * Armchair software historian (time period: 1983-2003)
- * I talk too much about the [Forth programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)).
+ * I talk too much about the [Forth programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)). I occasionally contribute to [RetroForth](https://github.com/crcx/retroforth) project.
 
 ## Interesting Software Projects
 
