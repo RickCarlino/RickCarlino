@@ -13,7 +13,6 @@
 
 ## Interesting Software Projects
 
- * [A tech news site that I manually curate](https://news.rickcarlino.com/)
  * [A dog collar that converts barks to email](https://github.com/FoxDotBuild/woof-alert)
  * [A Raspberry Pi weather station built for offline-only use](https://rickcarlino.com/2019/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt.html)
  * [A revived version of a 40 year old sci-fi video game](https://github.com/RickCarlino/Cosmic-Conquest-1982)
