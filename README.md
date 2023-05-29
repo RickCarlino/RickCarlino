@@ -34,4 +34,4 @@
 
 [Blog](http://rickcarlino.com/), [Reddit](https://www.reddit.com/user/rickcarlino), [StackOverflow](https://stackexchange.com/users/1063897/rick), [LinkedIn](https://www.linkedin.com/in/rickcarlino/), [Twitter](https://twitter.com/RickCarlino/)
 
-I keep a [personal Calendly page](https://calendly.com/rickcarlino/office-hours) for anyone who is interested in discussing professional matters. Please note that this is a _personal_ contact page and should not be used for technical support or sales questions.
+I keep a [personal Calendly page](https://calendly.com/rickcarlino/office-hours) for anyone who is interested in discussing professional matters. Please note that this is a _personal_ contact page and should not be used for anything related to my day job.
