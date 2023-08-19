@@ -6,13 +6,14 @@
 
  * Senior Software Engineer at Qualia Labs
  * Co-founder at [Fox.Build makerspace in the Chicago suburbs](https://fox.build/)
- * Former co-founder at [FarmBot](https://farm.bot/)
- * Technical editor for the book [ReactJS Foundations](https://www.amazon.com/React-Foundations-Building-Interfaces-ReactJS/dp/1119685540/), COMING SOON: JavaScript All-in-One For Dummies (ISBN: 9781119906834).
+ * Former technical co-founder of [FarmBot](https://farm.bot/)
+ * Technical editor for the books [ReactJS Foundations](https://www.amazon.com/React-Foundations-Building-Interfaces-ReactJS/dp/1119685540/) and [JavaScript All-in-One For Dummies](https://www.amazon.com/JavaScript-All-Dummies-Chris-Minnick/dp/1119906830).
  * Armchair software historian (time period: 1983-2003)
- * I talk too much about the [Forth programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)). I occasionally make code contributions to [RetroForth](https://github.com/crcx/retroforth).
+ * I talk too much about the [Forth programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)).
+ * I occasionally make code contributions to [RetroForth](https://github.com/crcx/retroforth).
 
 ## Interesting Software Projects
-
+ * [An app to practice Korean speaking and listening skills](https://github.com/RickCarlino/KoalaSRS)
  * [A dog collar that converts barks to email](https://github.com/FoxDotBuild/woof-alert)
  * [A Raspberry Pi weather station built for offline-only use](https://rickcarlino.com/2019/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt.html)
  * [A revived version of a 40 year old sci-fi video game](https://github.com/RickCarlino/Cosmic-Conquest-1982)
