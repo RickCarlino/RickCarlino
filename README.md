@@ -13,7 +13,7 @@
  * I occasionally make code contributions to [RetroForth](https://github.com/crcx/retroforth).
 
 ## Interesting Software Projects
- * [An app to practice Korean speaking and listening skills](https://github.com/RickCarlino/KoalaSRS)
+ * [An app to practice foreign language speaking and listening skills](https://github.com/RickCarlino/KoalaSRS)
  * [A dog collar that converts barks to email](https://github.com/FoxDotBuild/woof-alert)
  * [A Raspberry Pi weather station built for offline-only use](https://rickcarlino.com/2019/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt.html)
  * [A revived version of a 40 year old sci-fi video game](https://github.com/RickCarlino/Cosmic-Conquest-1982)
