@@ -13,6 +13,7 @@
  * I occasionally make code contributions to [RetroForth](https://github.com/crcx/retroforth).
 
 ## Interesting Software Projects
+ * [Stack Effect: The Game](https://github.com/RickCarlino/stack-effect-the-game) A game that helps you memorize [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)) stack operations.
  * [An app to practice foreign language speaking and listening skills](https://github.com/RickCarlino/KoalaCards)
  * [A dog collar that converts barks to email](https://github.com/FoxDotBuild/woof-alert)
  * [A Raspberry Pi weather station built for offline-only use](https://rickcarlino.com/2019/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt.html)
