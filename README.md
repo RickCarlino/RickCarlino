@@ -4,7 +4,7 @@
 
 ## About Me
 
- * Senior Software Engineer at Qualia Labs
+ * Engineering Manager at Qualia Labs
  * Co-founder at [Fox.Build makerspace in the Chicago suburbs](https://fox.build/)
  * Former technical co-founder of [FarmBot](https://farm.bot/)
  * Technical editor for the books [ReactJS Foundations](https://www.amazon.com/React-Foundations-Building-Interfaces-ReactJS/dp/1119685540/) and [JavaScript All-in-One For Dummies](https://www.amazon.com/JavaScript-All-Dummies-Chris-Minnick/dp/1119906830).
