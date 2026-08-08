@@ -25,6 +25,7 @@
 
 ## Writing
 
+ * :new:[Gnutella, A Protocol Outliving The World That Created It](https://rickcarlino.com/notes/p2p/gnutella-explanation.html)
  * [Build A Raspbery Pi Linux System The Hard Way](https://rickcarlino.com/2021/build-a-raspbery-pi-linux-system-the-hard-way.html)
  * [Building Tiny Raspberry Pi Linux Images With Buildroot](https://rickcarlino.com/2021/building-tiny-raspberry-pi-linux-images-with-buildroot.html)
  * [Fabulous Text Only Websites](https://rickcarlino.com/2018/fabulous-text-only-websites-2018-edition.html)
@@ -34,6 +35,6 @@
 
 ## Contact
 
-[Blog](http://rickcarlino.com/), [Reddit](https://www.reddit.com/user/rickcarlino), [StackOverflow](https://stackexchange.com/users/1063897/rick), [LinkedIn](https://www.linkedin.com/in/rickcarlino/), [Twitter](https://twitter.com/RickCarlino/)
+[Blog](http://rickcarlino.com/), [Reddit](https://www.reddit.com/user/rickcarlino), [StackOverflow](https://stackexchange.com/users/1063897/rick), [LinkedIn](https://www.linkedin.com/in/rickcarlino/)
 
 I keep a [personal Calendly page](https://calendly.com/rickcarlino/office-hours) for anyone who is interested in discussing professional matters. Please note that this is a _personal_ contact page and should not be used for anything related to my day job.
