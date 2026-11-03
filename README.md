@@ -4,8 +4,8 @@ Co-founder of [Fox.Build](https://fox.build/), former technical co-founder of [F
 
 ## Projects
 
-* [KoalaCards](https://Koala.Cards) — language speaking and listening practice.
-* [Gnutonium](https://github.com/gnutonium/gnutonium) — A *modern* cross-platform Gnutella client for the terminal.
+* ♥️ [KoalaCards](https://Koala.Cards) — language speaking and listening practice.
+* ⭐ [Gnutonium](https://github.com/gnutonium/gnutonium) — A *modern* cross-platform Gnutella client for the terminal.
 * [Stack Effect](https://github.com/RickCarlino/stack-effect-the-game) — learn Forth stack operations ([play](https://rickcarlino.com/game.html)).
 * [Woof Alert](https://github.com/FoxDotBuild/woof-alert) — a dog collar that emails barks.
 * [Offline weather station](https://rickcarlino.com/2019/a-weather-station-with-raspberry-pi-and-secure-scuttlebutt.html) — built with Raspberry Pi.
